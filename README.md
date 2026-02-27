@@ -14,20 +14,20 @@ Install from this repository using `npx skills`.
 
 ```sh
 # Show me what you got.
-npx skills add your-username/x-api-skills --list
+npx skills add lloyd3126/x-api-skills --list
 
 # Install a specific skill.
-npx skills add your-username/x-api-skills --skill x-api-dev --global
+npx skills add lloyd3126/x-api-skills --skill x-api-dev --global
 ```
 
 Or use the Context7 skills CLI.
 
 ```sh
 # Interactively browse and install skills.
-npx ctx7 skills install /your-username/x-api-skills
+npx ctx7 skills install /lloyd3126/x-api-skills
 
 # Install a specific skill.
-npx ctx7 skills install /your-username/x-api-skills x-api-dev
+npx ctx7 skills install /lloyd3126/x-api-skills x-api-dev
 ```
 
 ## Skills in this repo
@@ -38,10 +38,10 @@ Skill for developing X API applications. Provides best practices for building ap
 
 ```sh
 # npx skills
-npx skills add your-username/x-api-skills --skill x-api-dev --global
+npx skills add lloyd3126/x-api-skills --skill x-api-dev --global
 ```
 
 ```sh
 # Context7 skills
-npx ctx7 skills install /your-username/x-api-skills x-api-dev
+npx ctx7 skills install /lloyd3126/x-api-skills x-api-dev
 ```
